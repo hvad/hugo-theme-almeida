@@ -1,0 +1,172 @@
+BasicInfo:
+  FirstName: David
+  LastName: Hannequin
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +33 6 38 39 22 15
+    - Icon: fas fa-envelope
+      Info: david.hannequin@gmail.com
+    - Icon: fas fa-globe
+      Info: hvad.github.io
+    - Icon: fas fa-map-marker-alt
+      Info: France
+
+Profile: Expert Supervision
+
+Experience:
+  - Employer: La Banque Postale
+    Place: Toulouse, FR
+    Positions:
+      - Title: Expert supervision 
+        Date: Depuis décembre 2017
+        Details:
+          - Mise en oeuvre de solution d’APM Dynatrace et maintient opérationnel 
+          - Conception de la preuve de concept d'APM
+          - Rédaction de document d'architecture technique de la supervision 
+          - Rédaction de manuelle d’instruction de mise en oeuvre de supervision
+          - Mise en oeuvre de solution de supervision Nagios et Centreon
+          - Administration et optimisation de serveurs Web (Apache)
+          - Administration et optimisation de bases de données MySQL
+          - Résolution d'incidents niveau 2
+          - Industrialisation des solutions de supervision
+          - Packaging de RPMs pour Linux RedHat et Aix
+          - Développement de plugins Shinken et Nagios ( https://github.com/hvad/shinken-plugins )
+        Badges: ['Linux', 'RedHat', 'Fedora', 'Nagios', 'Apache', 'APM', 'Dynatrace', 'Firewalld', 'Centreon', 'RPM', 'Ansible', 'Terraform']
+
+  - Employer: Matrics – Groupe Sapiens
+    Place: Toulouse, FR
+    Positions:
+      - Title: Expert supervision
+        Date: De décembre 2016 à décembre 2017
+        Details:
+          - De décembre 2016 à décembre 2017 en mission pour La Banque Postale
+          - Rédaction de document d'architecture technique de la supervision 
+          - Mise en oeuvre de solution de supervision Nagios et Centreon 
+          - Résolution d'incidents niveau 2
+          - Industrialisation des solutions de supervision
+          - Packaging de RPMs pour RedHat et Aix
+          - Développement de plugins Shinken et Nagios ( https://github.com/hvad/shinken-plugins )
+        Badges: ['Linux', 'RedHat', 'Fedora', 'Nagios', 'Apache', 'MySQL', 'Firewalld', 'Centreon', 'RPM', 'Ansible']
+
+  - Employer: Fullsave
+    Place: Toulouse, FR
+    Positions:
+      - Title: Administrateur Systemes et Reseaux - Expert supervision
+        Date: De avril 2010 à novembre 2016
+        Details:
+          - Rédaction du document d'architecture technique de la solution de supervision pour le centre de données 
+          - Mise en oeuvre de solution de supervision Shinken, Nagios et Centreon
+          - Supervision environnementale de centre de données ( Onduleur, Climatisation, Groupe électrogène, Détection de fuite et humidité )
+          - Supervision systèmes, bases de données, serveurs Web, serveurs d'applications, équipements réseaux, matériel, baie de stockage, ressentie utilisateurs
+          - Développement de plugins Shinken et Nagios ( https://github.com/hvad/shinken-plugins ) 
+          - Administration et optimisation de serveurs Web (Apache et NGinx)
+          - Administration et optimisation de bases de données MySQL et PostgreSQL
+          - Mise en oeuvre de solution de haute disponibilité pour bases de données MySQL et PostgreSQL 
+          - Administration et analyse de problème de serveurs d'applications Java (Jboss, Tomcat et Glassfish) 
+          - Mise en oeuvre d'annuaire OpenLDAP
+          - Création de playbook Ansible
+          - Mise en oeuvre d'une infrastructure de construction de RPMs et dépôt YUM 
+          - Rédaction de documentation technique
+        Badges: ['Linux', 'Debian', 'RedHat', 'Fedora', 'Nagios', 'Apache', 'MySQL', 'PostgreSQL', 'InfluxDB', 'Iptables', 'Shinken', 'Kickstart', 'RPM', 'Deb', 'Ansible']
+
+  - Employer: Linagora
+    Place: Paris, FR
+    Positions:
+      - Title: Administrateur Systemes et Reseaux - Expert supervision
+        Date: De septembre 2006 à avril 2010
+        Details:
+          - Mise en oeuvre de solution de supervision Nagios et Centreon 
+          - Administration de serveur Web et Base de données Développement de plugins Nagios
+          - Formateur à Linux, Nagios, Apache HTTPD, MySQL et PostgreSQL 
+          - Packaging RPMs et DEBs
+          - Rédaction de documentation technique
+          - Rédaction de livre blanc sur la virtualisation
+          - Contributeur du projet FAN ( http://www.fullyautomatednagios.org )
+          - Contributeur du projet Centreon ( http://community.centreon.com )
+          - Contributeur de la distribution Linux Fedora ( https://admin.fedoraproject.org/pkgdb/packager/hvad/ )
+        Badges: ['Linux', 'Debian', 'RedHat', 'Fedora', 'Nagios', 'Apache', 'MySQL', 'Iptables', 'Centreon', 'Kickstart', 'RPM']
+
+  - Employer: CFPPA
+    Place: Roanne, FR
+    Positions:
+      - Title: Administrateur Systemes et Reseaux
+        Date: De janvier 2001 à aout 2006
+        Details:
+          - Mise en oeuvre de réseau informatique et administration systèmes Windows, Linux et Novell
+          - Administration de serveur Web, Base de données et SaMBa
+          - Conception de site Web
+          - Mise en oeuvre de solution de videoconference et de formation en FOAD
+          - Rédaction de documentation technique
+        Badges: ['Linux', 'Debian', 'Novell', 'Bash', 'HTML', 'Apache', 'MySQL', 'Iptables', 'LDAP']
+
+Education:
+  - Course: DUT Organisation et Genie de Production
+    Place: IUT Jean Monet
+    Date: 2000
+    Details: 
+
+Skills:
+  - Family: System
+    Items:
+      - Linux
+      - FreeBSD
+      - Novell
+      - OSX
+  - Family: Monitoring
+    Items:
+      - Nagios
+      - Centreon
+      - Shinken
+      - Prometheus  
+      - Grafana  
+  - Family: Virtualization
+    Items:
+      - KVM
+      - Xen
+      - Libvirt
+  - Family: Development language
+    Items:
+      - Python
+      - Perl
+      - Golang
+      - HTML
+      - PHP
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Hugo
+      - Pelican
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Podman
+  - Family: Web Server
+    Items:
+      - Apache Httpd
+      - Nginx
+  - Family: Database
+    Items:
+      - MySQL
+      - PostgreSQL
+      - InfluxDB
+  - Family: Misc
+    Items:
+      - ViM
+      - Ansible
+      - Terraform
+
+Languages:
+  - Name: Français
+    Level: Natif
+  - Name: Anglais
+    Level: Lu et écrit
+
+Interests:
+  - Fedora 
+  - Judo 
+  - Cinéma
+  - Linux
+  - Ju jitsu
+  - Lecture
